@@ -14,7 +14,7 @@ class Solution {
     }
 }
 
-// If ElseIf
+// If ElseIf 
 // Given marks of a student, print on the screen:
 
 // Grade A if marks >= 90
